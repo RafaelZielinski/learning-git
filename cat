@@ -12,17 +12,9 @@
 <img src="img_la.jpg" alt="LA" style="width:100%">
 
 <div class="">
-
-<This is mistake line>
- <p>This is a paragraph.</p>
- <p>This is another paragraph.</p>
- 
- <h1> Ale drogo </h1>
-
  <h1>This is a Heading</h1>
  <p>This is a paragraph.</p>
  <p>This is another paragraph.</p>
-
 </div>
 
 </body>
